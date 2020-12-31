@@ -1,0 +1,4 @@
+This directory includes the LiveAnalysis.cpp file which has the source code for the pass.
+
+I have included the outputs after running the pass through test-programs.
+(As I was suggested by the TA to include the screenshots since I have MacOS configuration which has different extension for pass build (.dylib) while Linux has .so)
